@@ -38,8 +38,9 @@ body{
 }
 
 .mob{
-	display: none;
+	background: white;
 	position: absolute;
+	width: 100%;
 	left: 10%;
 	right: 10%;
 	top: 10%;
@@ -860,5 +861,12 @@ body{
 
 .footer ul li a i{
 	font-size: 29px;
+}
+
+@media only screen and (max-width:750px){
+	.mob{
+		display: block;
+	}
+		
 }
 
