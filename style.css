@@ -22,7 +22,7 @@
     display: block;
   }
   
-  .big,.hide{
+  .big,.hide, .small{
     display: none;
   }
   
