@@ -862,12 +862,3 @@ body{
 	font-size: 29px;
 }
 
-@media only screen and (max-width: 700px){
-	.mob{
-		display: block;
-	}
-	
-	html body *{
-		display: none;
-	}
-}
