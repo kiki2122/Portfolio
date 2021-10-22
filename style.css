@@ -10,6 +10,12 @@
     display: none;
 }
 
+.mob h6{
+    position: absolute;
+    left: 5%;
+    top: 10%;
+}
+
 @media only screen and (max-width:700px){
   .mob{
     display: block;
