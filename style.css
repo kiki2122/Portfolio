@@ -1,7 +1,7 @@
 .mob{
-    position: absolute;
-    width: 300%;
-    height: 570%;                  
+    position: fixed;
+    width: 80%;
+    height: 100%;                  
     background: white;
     top: 0%;
     left: 0%;
