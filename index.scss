@@ -856,7 +856,7 @@ body{
 
 $layout-breakpoint-small: 700px;
 
-@media (min-width: $layout-breakpoint-small) {
+@media (max-width: $layout-breakpoint-small) {
   .mob {
     display: block;
   }
