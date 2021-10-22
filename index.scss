@@ -854,16 +854,6 @@ body{
 	font-size: 29px;
 }
 
-$layout-breakpoint-small: 700px;
 
-@media (max-width: $layout-breakpoint-small) {
-  .mob {
-    display: block;
-  }
-	
-   .big{
-	display: none;
-   }
-}
 
 
