@@ -11,8 +11,8 @@
 }
 
 .mob h3{
-    margin-top: 10%;
-    left: 0%;
+    margin-top: 0%;
+    margin-left: 0%;
 }
 
 @media only screen and (max-width:700px){
@@ -20,12 +20,9 @@
     display: block;
   }
   
-  .big{
+  .big,.hide{
     display: none;
   }
     
-    html, body {
-    max-width: 100%;
-    overflow-x: hidden;
-}
+
 }
