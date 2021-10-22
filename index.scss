@@ -37,10 +37,6 @@ body{
 	background: rgba(233, 113, 123, 0.863);
 }
 
-.mob{
-	display: none;
-}
-
 .logo, .f-logo{
 	position: absolute;
 	background: transparent; 
@@ -861,6 +857,10 @@ body{
 @media only screen and (max-width:750px){
 	.mob{
 		display: block;
+	}
+	
+	.big{
+		display: none;
 	}
 		
 }
